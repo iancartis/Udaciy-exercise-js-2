@@ -1,4 +1,4 @@
-# Udacity's Landing Page project
+# Landing Page project
 
 
 ## Description
